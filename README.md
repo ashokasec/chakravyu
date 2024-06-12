@@ -16,6 +16,7 @@ Chakravyu is a gamified cybersecurity platform designed to enhance your skills a
 
 For more queries and updates, follow us on:
 - Twitter: [@ashokasec](https://twitter.com/ashokasec)
-- Telegram: [Ashokasec](https://t.me/ashokasec)
+- Telegram: [@ashokasec](https://t.me/ashokasec)
+- Email: work.shivam@proton.me
 
 Stay tuned for more exciting updates from Chakravyu!
